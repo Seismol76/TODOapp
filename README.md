@@ -8,8 +8,8 @@ Este es una app web hecha con React.js sobre una lista de tareas que incluye:
  - Filtrar tareas completadas, no completadas y todas
 
 ## Instalacion y uso
- git clone https://github.com/Seismol76/TODOapp.git
- cd TODOapp
+   git clone https://github.com/Seismol76/TODOapp.git
+   cd TODOapp
 
  npm init
  npm install
@@ -17,7 +17,7 @@ Este es una app web hecha con React.js sobre una lista de tareas que incluye:
 ## Foto
 
 
-![image](https://github.com/Seismol76/TODOapp/Todofoto.png)
+![image](https://github.com/Seismol76/TODOapp/blob/master/Todofoto.png)
 
 
 
