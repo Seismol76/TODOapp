@@ -18,6 +18,7 @@ Este es una app web hecha con React.js sobre una lista de tareas que incluye:
 ## Uso de la apliacion
  - Escribir título de la tarea
  - Agregar descripción de la tarea
+ - Presionar botón "agregar"
  - Cuando completes la tarea, puedes marcar la casilla al lado de esta para marcar como completa
  - Puedes filtrar por Completa, pendientes y todas con los botones correspondietes 
  - Puedes eleminar tareas al presionar "eliminar"
